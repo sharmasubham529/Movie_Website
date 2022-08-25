@@ -1,7 +1,5 @@
 # Classifying Movie Reviews Sentiment & Recommending Movies
 
-This is a Hackathon Project
-
 Our movie website has 3 main features,
 
 1. It recommends movie based on user inputs.

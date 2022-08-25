@@ -23,10 +23,3 @@ The added points shows how much experienced a profile is.
 And while going through reviews of a particular movie the viewer gets to see the profile points
 of the reviewers, and hence will get an idea about that, which review is more likely to be reliable, as its coming from an experience user having high profile points.
 
-Youtube link of this project demonstration:
-https://youtu.be/AtNg5vvKMug
-
-Project done by
-1. Swapnadeep Sarkar
-2. Subidita Maity
-3. Md. Irshad
